@@ -29,6 +29,10 @@ In Sea Power <b>Tactical Display</b> is your tactical map where all the units (s
 </p>
 
 <p>
+Tactical Display dialog can be dragged around, made larger and smaller depending what you need.
+</p>
+
+<p>
 <b>Track Number</b> is a number (top most line) on all units and weapons. This is a track that is assigned to each contact in your tactical display, I mean you have to keep track of whos who and this number will do just that. You have known lines like <i>Kill track 1234!</i> in various naval warfare games for decades now, this is the track. Track number includes TYPE of the unit, like "7001 (DD)" would be track seven zero zero one destroyer, "7019 (FFG)" would be track seven zero one niner frigate, and so on.
 </p>
 
