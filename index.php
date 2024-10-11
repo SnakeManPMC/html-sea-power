@@ -30,6 +30,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 
 <a href="https://www.triassicgames.com/" target="_blank">Triassic Games</a>, <a href="https://store.steampowered.com/app/1286220/Sea_Power__Naval_Combat_in_the_Missile_Age/" target="_blank">Sea Power in steam</a> and <a href="https://www.microprose.com/games/sea-power" target="_blank">Sea Power in microprose.com</a>.
 
+<p><a href="damage-control.php">Damage Control</a> when your ship gets hit, check this screen.</p>
 <p><a href="developer-posts.php">Developer posts</a> find out the authentic info right from the game devs.</p>
 <p><a href="emcon.php">EMCON</a> <b>em</b>ission <b>con</b>trol, easy way to turn your radars on or off.</p>
 <p><a href="event-log.php">Event Log</a> various activity is logged in the event log.</p>
