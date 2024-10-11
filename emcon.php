@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>EMCOM Sea Power Naval Combat in the Missile Age</title>
+<title>EMCON Sea Power Naval Combat in the Missile Age</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="EMCOM Sea Power Naval Combat in the Missile Age">
+<META name="description" content="EMCON Sea Power Naval Combat in the Missile Age">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,30 +15,30 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1>EMCOM Sea Power</h1>
+	<h1>EMCON Sea Power</h1>
 <p>Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>EMCOM Sea Power</h2>
+	<h2>EMCON Sea Power</h2>
 
 <p>
-<i>In telecommunications, radio silence or emissions control (EMCON) is a status in which all fixed or mobile radio stations in an area are asked to stop transmitting for safety or security reasons.</i> -source <a href="https://en.wikipedia.org/wiki/Radio_silence" target="_blank">wikipedia radio silence (EMCOM)</a>.
+<i>In telecommunications, radio silence or emissions control (EMCON) is a status in which all fixed or mobile radio stations in an area are asked to stop transmitting for safety or security reasons.</i> -source <a href="https://en.wikipedia.org/wiki/Radio_silence" target="_blank">wikipedia radio silence (EMCON)</a>.
 </p>
 
 <p>
 In sea power EMCON feature is located in the graphical user interface (GUI) bottom right corner, see below image.
 </p>
 
-<img src="screenshots/Sea-Power-GUI-EMCOM-01.jpg" class="imgresponsive" loading="lazy" alt="Sea Power EMCOM GUI" title="Sea Power EMCOM GUI">
+<img src="screenshots/Sea-Power-GUI-EMCON-01.jpg" class="imgresponsive" loading="lazy" alt="Sea Power EMCON GUI" title="Sea Power EMCON GUI">
 <div class="imgcredit">
 Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=fS25SReO9lc" target="_blank">SEA POWER First Look! || New Naval Simulation! video</a>.
 </div>
 
 <p>
-When you mouse click EMCON it bring bring up a dialog with all the options available to you with regarding of the currently selected unit. In the above example image you see "Air search radar (LR)", "Surface search radar (MR)" and "Active sonar (LF)" options along with big "EMCOM" on the top.
+When you mouse click EMCON it bring bring up a dialog with all the options available to you with regarding of the currently selected unit. In the above example image you see "Air search radar (LR)", "Surface search radar (MR)" and "Active sonar (LF)" options along with big "EMCON" on the top.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
