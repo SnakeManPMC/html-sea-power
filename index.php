@@ -31,6 +31,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 <a href="https://www.triassicgames.com/" target="_blank">Triassic Games</a>, <a href="https://store.steampowered.com/app/1286220/Sea_Power__Naval_Combat_in_the_Missile_Age/" target="_blank">Sea Power in steam</a> and <a href="https://www.microprose.com/games/sea-power" target="_blank">Sea Power in microprose.com</a>.
 
 <p><a href="developer-posts.php">Developer posts</a> find out the authentic info right from the game devs.</p>
+<p><a href="emcom.php">EMCOM</a> <b>em</b>ission <b>con</b>trol, easy way to turn your radars on or off.</p>
 <p><a href="tactical-display.php">Tactical Display</a> is your tactical map where all the units, weapons, land etc will appear.</p>
 
 	<h2>Sea Power Video Links</h2>

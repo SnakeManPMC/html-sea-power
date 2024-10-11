@@ -69,3 +69,14 @@ a:hover
 	color:rgb(255,255,255);
 	background-color:rgb(200, 0, 0);
 }
+
+.imgcredit
+{
+	font-size: 12px;
+}
+
+.imgresponsive
+{
+	max-width: 100%;
+	height: auto;
+}
