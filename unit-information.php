@@ -105,6 +105,19 @@ VisualSize, I assume rough example of how big the unit is when observed visually
 Confidence, hard to say what the value means other than basic logic, larger the number and more confidence you have, but it is from 0.0 to 1.0 or what is the range, no idea. PMCTODO
 </p>
 
+<p>
+Below example image shows our unknown contact being designated as hostile submarine matching few possible classes.
+</p>
+
+<img src="screenshots/Unit-Information-02.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Unit Information Hostile Submarine" title="Sea Power Unit Information Hostile Submarine">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=Rh6p7Domris" target="_blank">SEA POWER Submarine Combat! || New Naval Simulation! video</a>.
+</div>
+
+<p>
+These possible contact classes are soviet union submarine Alfa class, Victor 1 class or Victor 2 class. Note how there is no longer "and 21 more..." text on the bottom, now the contact resolution is so high that its narrowed down to three different commie submarine classes.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
