@@ -35,6 +35,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 <p><a href="event-log.php">Event Log</a> various activity is logged in the event log.</p>
 <p><a href="flight-deck-dialog.php">Flight Deck Dialog</a> launch and recover aircrafts/helicopters.</p>
 <p><a href="magnetic-anomaly-detector.php">Magnetic Anomaly Detector (MAD)</a> is how you detect a submarine.</p>
+<p><a href="request-identify-yourself.php">Request Identify Yourself</a> can be used for unknown contacts in tactical display.</p>
 <p><a href="tactical-display.php">Tactical Display</a> is your tactical map where all the units, weapons, land etc will appear.</p>
 <p><a href="towed-array-sonar.php">Towed Array Sonar</a> is sonar that is towed behind a surface ship or a submarine.</p>
 <p><a href="unit-control-dialog.php">Unit Control Dialog</a> is how you order your units around.</p>
