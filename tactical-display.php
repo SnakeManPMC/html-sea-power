@@ -65,6 +65,19 @@ Having ship unit selected on tactical display which have weapons, you can see fo
 Waypoints on tactical display have numbers on them like 12:34, apparently these are local ZULU time, for example this 1234 example would be thirty four minutes past twelve o'clock. For example in ship waypoints that would be the estimate time to arrival. You can easily see how long time does it take to travel any such distance (waypoint). PMCTODO
 </p>
 
+<p>
+Below example image shows an unknown submarine contact, it is marked with yellow ellipse band around it.
+</p>
+
+<img src="screenshots/Unknown-Submarine-Contact-01.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Unknown Submarine Contact" title="Sea Power Unknown Submarine Contact">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=Rh6p7Domris" target="_blank">SEA POWER Submarine Combat! || New Naval Simulation! video</a>.
+</div>
+
+<p>
+That yellow band area marks the possible area the submarine contact could be, it does not mean that where the sub icon is on tactical display is actually the units location, it can be anywhere in that estimated yellow band area.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
