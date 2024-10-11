@@ -30,6 +30,8 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 
 <a href="https://www.triassicgames.com/" target="_blank">Triassic Games</a>, <a href="https://store.steampowered.com/app/1286220/Sea_Power__Naval_Combat_in_the_Missile_Age/" target="_blank">Sea Power in steam</a> and <a href="https://www.microprose.com/games/sea-power" target="_blank">Sea Power in microprose.com</a>.
 
+<p><a href="developer-posts.php">Developer posts</a> find out the authentic info right from the game devs.</p>
+
 	<h2>Sea Power Video Links</h2>
 
 <p>
@@ -54,10 +56,6 @@ These youtube channels have some very high quality videos of Sea Power, some of 
 
 <p>
 <a href="https://www.youtube.com/@Enigma89" target="_blank">Enigma89</a>
-</p>
-
-<p>
-<a href="" target="_blank"></a>
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
