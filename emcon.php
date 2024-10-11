@@ -41,6 +41,10 @@ Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wol
 When you mouse click EMCON it bring bring up a dialog with all the options available to you with regarding of the currently selected unit. In the above example image you see "Air search radar (LR)", "Surface search radar (MR)" and "Active sonar (LF)" options along with big "EMCON" on the top.
 </p>
 
+<p>
+Once you activate emissions (radar, sonar etc) on the current unit the bottom right corner GUI display changes from "EMCON" to "Radio Routine". If you want to shut off emissions, click radio routine and "EMCON" on top of the dialog, this will shut off all radars/sonars etc emissions on the unit, it <i>makes like a hole in the water</i>.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

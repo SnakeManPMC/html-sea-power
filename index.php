@@ -33,6 +33,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 <p><a href="developer-posts.php">Developer posts</a> find out the authentic info right from the game devs.</p>
 <p><a href="emcon.php">EMCON</a> <b>em</b>ission <b>con</b>trol, easy way to turn your radars on or off.</p>
 <p><a href="tactical-display.php">Tactical Display</a> is your tactical map where all the units, weapons, land etc will appear.</p>
+<p><a href="unit-control-dialog.php">Unit Control Dialog</a> is how you order your units around.</p>
 
 	<h2>Sea Power Video Links</h2>
 
