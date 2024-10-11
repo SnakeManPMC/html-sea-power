@@ -15,7 +15,7 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1>Sea Power Naval Combat in the Missile Age</h1>
+	<h1>Sea Power Naval Combat in the Missile Age</h1>
 <p>Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -31,6 +31,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 <a href="https://www.triassicgames.com/" target="_blank">Triassic Games</a>, <a href="https://store.steampowered.com/app/1286220/Sea_Power__Naval_Combat_in_the_Missile_Age/" target="_blank">Sea Power in steam</a> and <a href="https://www.microprose.com/games/sea-power" target="_blank">Sea Power in microprose.com</a>.
 
 <p><a href="developer-posts.php">Developer posts</a> find out the authentic info right from the game devs.</p>
+<p><a href="tactical-display.php">Tactical Display</a> is your tactical map where all the units, weapons, land etc will appear.</p>
 
 	<h2>Sea Power Video Links</h2>
 
@@ -64,7 +65,6 @@ These youtube channels have some very high quality videos of Sea Power, some of 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="links.php">Links</a></p>
-<br><br>
 <p><i>PMC Sea Power 2024 - <?php print(date("Y")); ?>.</i></p>
 <?php include("/var/www/include/footer-end.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
