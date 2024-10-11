@@ -61,6 +61,10 @@ Tactical Display dialog can be dragged around, made larger and smaller depending
 Having ship unit selected on tactical display which have weapons, you can see for example green, blue and rew range circles around the unit. I don't yet know which ranges these colors represent, could be even green being sonar or something, assumption now is that red is surface to air missile range. PMCTODO
 </p>
 
+<p>
+Waypoints on tactical display have numbers on them like 12:34, apparently these are local ZULU time, for example this 1234 example would be thirty four minutes past twelve o'clock. For example in ship waypoints that would be the estimate time to arrival. You can easily see how long time does it take to travel any such distance (waypoint). PMCTODO
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
