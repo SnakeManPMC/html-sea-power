@@ -41,6 +41,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 <p><a href="time-compression.php">Time Compression</a> game plays in real time and compressed time.</p>
 <p><a href="towed-array-sonar.php">Towed Array Sonar</a> is sonar that is towed behind a surface ship or a submarine.</p>
 <p><a href="unit-control-dialog.php">Unit Control Dialog</a> is how you order your units around.</p>
+<p><a href="unit-speed-control.php">Unit Speed Control</a> all ahead flank! How to control your aircraft/ship/sub speed.</p>
 
 	<h2>Sea Power Video Links</h2>
 
