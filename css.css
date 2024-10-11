@@ -2,7 +2,7 @@
 body
 {
 	background: RGB(30, 30, 30);
-	color: RGB(250, 250, 250);
+	color: RGB(200, 200, 200);
 	
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 16px;
@@ -15,8 +15,16 @@ body
 
 h1
 {
+	color: rgb(255, 255, 255);
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 32px;
+}
+
+h2
+{
+	color: rgb(255, 255, 255);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
 }
 
 header
@@ -33,4 +41,31 @@ footer
 {
 	text-align: center;
 	width: 100%;
+}
+
+a
+{
+	text-decoration:none;
+}
+ 
+a:link
+{
+	color:rgb(51, 204, 51);
+}
+ 
+a:visited
+{
+	color:rgb(51, 102, 255);
+}
+ 
+a:active
+{
+	color:rgb(204, 255, 153);
+}
+ 
+a:hover
+{
+	text-decoration:underline;
+	color:rgb(255,255,255);
+	background-color:rgb(200, 0, 0);
 }
