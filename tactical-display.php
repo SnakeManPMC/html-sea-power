@@ -28,6 +28,11 @@
 In Sea Power <b>Tactical Display</b> is your tactical map where all the units (ships, subs, aircrafts, ground vehicles etc), weapons, land etc will appear. You can also control your units in Real Time Strategy (RTS) style using tactical display.
 </p>
 
+<img src="screenshots/Tactical-Display-01.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Tactical Display" title="Sea Power Tactical Display">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=fS25SReO9lc" target="_blank">SEA POWER First Look! || New Naval Simulation! video</a>.
+</div>
+
 <p>
 Tactical Display dialog can be dragged around, made larger and smaller depending what you need.
 </p>
@@ -50,6 +55,10 @@ Tactical Display dialog can be dragged around, made larger and smaller depending
 
 <p>
 <b>Altitude ft</b> is units current altitude, if its an aircraft its usually high above sea/ground level, its its a surface ship then its about "Alt 1 ft" which means sea level and if its a submerged submarine then its depth.
+</p>
+
+<p>
+Having ship unit selected on tactical display which have weapons, you can see for example green, blue and rew range circles around the unit. I don't yet know which ranges these colors represent, could be even green being sonar or something, assumption now is that red is surface to air missile range. PMCTODO
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
