@@ -34,7 +34,7 @@ Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wol
 </div>
 
 <p>
-Do this from the tactical display, select the unknown unit, then (I assume) RMB click and choose Request: Identify Yourself. PMCTODO
+Do this from the tactical display, select the unknown unit, then (I assume) RMB click and choose Request: Identify Yourself. If the unit doesn't respond you will see a "system message" in the bottom center of the screen. PMCTODO
 </p>
 
 <p>
