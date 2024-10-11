@@ -34,6 +34,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 <p><a href="emcon.php">EMCON</a> <b>em</b>ission <b>con</b>trol, easy way to turn your radars on or off.</p>
 <p><a href="event-log.php">Event Log</a> various activity is logged in the event log.</p>
 <p><a href="flight-deck-dialog.php">Flight Deck Dialog</a> launch and recover aircrafts/helicopters.</p>
+<p><a href="magnetic-anomaly-detector.php">Magnetic Anomaly Detector (MAD)</a> is how you detect a submarine.</p>
 <p><a href="tactical-display.php">Tactical Display</a> is your tactical map where all the units, weapons, land etc will appear.</p>
 <p><a href="unit-control-dialog.php">Unit Control Dialog</a> is how you order your units around.</p>
 
