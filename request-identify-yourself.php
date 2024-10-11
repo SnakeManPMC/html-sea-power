@@ -53,6 +53,10 @@ Friendly means no shooting, no hostilities. Neutral means kind of like nothing, 
 When you request identify yourself it doesn't mean all units automatically snap into attention and send you a full briefing who they are and what they are doing, as many aircrafts/ships might not be even listening to the same radio frequencies you are (I'm just speculating here, who knows maybe there are some international maritime LAW which dictates that you have to monitor some specific radio frequency). I've seen several youtube videos where this request falls to a deaf ears, no replies. Do not declare such unknown contact as hostile because it could be a simple civilian airliner/ship who is just not receiving your request. Only shoot what you have positively identified hostile.
 </p>
 
+<p>
+Unknown contact can be seen in tactical display but it wont show up in 3D world because you don't know what type of unit it is. With unknown contacts it looks like your weapons hit invisible objects, this is normal.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

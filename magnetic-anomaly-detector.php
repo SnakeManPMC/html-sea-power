@@ -54,6 +54,11 @@ Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wol
 Then once you get lucky enough and fly directly over a submerged submarine, you will get a new contact report about the sub.
 </p>
 
+<img src="screenshots/Magnetic-Anomaly-Detector-Helicopter-02.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Magnetic Anomaly Detector Helicopter" title="Sea Power Magnetic Anomaly Detector Helicopter">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=fS25SReO9lc" target="_blank">SEA POWER First Look! || New Naval Simulation! video</a>.
+</div>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
