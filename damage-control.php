@@ -41,6 +41,15 @@ Here the example ship has heavy hull damage and slight flooding. "DC Teams" mean
 You can assign damage control teams to work on specific parts of the ship, or keep them in "Auto" mode where AI controls what will be repaired first.
 </p>
 
+<p>
+Below image example if from USS Nimitz after it got hit by several soviet anti ship missiles.
+</p>
+
+<img src="screenshots/Damage-Control-02.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Damage Control USS Nimitz" title="Sea Power Damage Control USS Nimitz">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=Ob5npjC-beo" target="_blank">SEA POWER Dance of the Vampires || New Naval Simulation video</a>.
+</div>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
