@@ -78,6 +78,27 @@ Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wol
 That yellow band area marks the possible area the submarine contact could be, it does not mean that where the sub icon is on tactical display is actually the units location, it can be anywhere in that estimated yellow band area.
 </p>
 
+<p>
+Tactical Display map filters are useful tool to clear up the clutter, to let you focus on the important icons. Below example shows top right corner where map filters are activated.
+</p>
+
+<img src="screenshots/Tactical-Display-02.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Tactical Display Map Filters" title="Sea Power Tactical Display Map Filters">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=xexAKqX4-yw" target="_blank">SEA POWER Kirov Supremacy! || New Naval Simulation video</a>.
+</div>
+
+<p>
+In top right corner you have the icon for three horizontal lines, this is the icon/button to click for getting into tactical display map drawing stuff. Map layers is what I'm calling filters there. In the above example image you can see so many different options to turn on and off. To turn something on select it and "tick mark" appears in front of the option, do the same to turn off, tick mark disappears.
+</p>
+
+<p>
+Tactical Display Map Layers types are many, here is the long list; unassigned info, unassigned behaviours, unassigne icons, always visible, contact icons: wingmen, contact info: type, contact info: class, contact info: range, contact info: emissions, unused, contact ellipse, contact range circles, waypoint path, current waypoint, other waypoins, current waypoint text, other waypoints text, drawings, aircraft fuel range, unused (2?), weapon seekers, weapon vectors, weapon sonobuoys, weapon horizon ranges, unused (3?), unused (4?), on map areas and contact image.
+</p>
+
+<p>
+That gives you plenty of control over Tactical Display Map Layers / filters, turn on/off whatever you prefer.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
