@@ -58,7 +58,7 @@ Tactical Display dialog can be dragged around, made larger and smaller depending
 </p>
 
 <p>
-Having ship unit selected on tactical display which have weapons, you can see for example green, blue and rew range circles around the unit. I don't yet know which ranges these colors represent, could be even green being sonar or something, assumption now is that red is surface to air missile range. PMCTODO
+Having ship unit selected on tactical display which have weapons, you can see for example green, blue and rew range circles around the unit. I don't yet know which ranges these colors represent, could be even green being sonar or something, assumption now is that red is surface to air missile range. Wolfpack345 confirmed: tactical display range circles, YELLOW circle is minimum firing range. PMCTODO
 </p>
 
 <p>
