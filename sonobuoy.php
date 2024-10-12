@@ -42,7 +42,7 @@ In several Sea Power youtube videos I've seen players drop sonobuoys just to det
 </p>
 
 <p>
-Another example image for sonobuoy search pattern, this time created with "SHIFT-CLICK", I don't know what click means, is it LMB or RMB, will have to get the game on release day to find out for myself. I'm assuming that CTRL-RMB clicking will automatically generate systematic search pattern as seen in the above image, but SHIFT-LEFT-OR-RIGHT-MOUSE clicking enables you to manually place waypoints for sonobuoy drops. PMCTODO
+Another example image for sonobuoy search pattern, this time created with "SHIFT-CLICK", I don't know what click means, is it LMB or RMB, will have to get the game on release day to find out for myself. I'm assuming that CTRL-RMB clicking will automatically generate systematic search pattern as seen in the above image, but SHIFT-LEFT-OR-RIGHT-MOUSE clicking enables you to manually place waypoints for sonobuoy drops. In "SEA POWER Kirov Supremacy" video Wolfpack345 confirmed that there is automatic search pattern which I assume he refers to CTRL-RMB click. PMCTODO
 </p>
 
 <img src="screenshots/Sonobuoy-Helicopter-Pattern-02.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Sonobuoy Helicopter Pattern Manual Waypoints" title="Sea Power Sonobuoy Helicopter Pattern Manual Waypoints">
