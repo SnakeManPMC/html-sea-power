@@ -41,6 +41,19 @@ Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wol
 In several Sea Power youtube videos I've seen players drop sonobuoys just to detect and track SURFACE ships as well if they don't want to use surface search radars, to me personally I never witnessed this in any other naval warfare sim previously, Harpoon, Janes Fleet Command, Dangerous Water, Cold Waters or CMANO, but hey maybe its just me. PMCTODO
 </p>
 
+<p>
+Another example image for sonobuoy search pattern, this time created with "SHIFT-CLICK", I don't know what click means, is it LMB or RMB, will have to get the game on release day to find out for myself. I'm assuming that CTRL-RMB clicking will automatically generate systematic search pattern as seen in the above image, but SHIFT-LEFT-OR-RIGHT-MOUSE clicking enables you to manually place waypoints for sonobuoy drops. PMCTODO
+</p>
+
+<img src="screenshots/Sonobuoy-Helicopter-Pattern-02.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Sonobuoy Helicopter Pattern Manual Waypoints" title="Sea Power Sonobuoy Helicopter Pattern Manual Waypoints">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=xexAKqX4-yw" target="_blank">SEA POWER Kirov Supremacy! || New Naval Simulation video</a>.
+</div>
+
+<p>
+Guess that is sonobuoy helicopter search pattern manual waypoints method then. Looks good, love making my own search patterns to hunt those submarines down.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
