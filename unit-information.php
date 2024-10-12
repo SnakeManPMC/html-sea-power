@@ -131,6 +131,23 @@ Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wol
 State is tracking, confidence is higher than 1.0, detected by DDG Adams class passive sonar.
 </p>
 
+<p>
+<i>In military telecommunications, <b>electronic support (ES)</b> or <b>electronic support measures (ESM)</b> gather intelligence through passive "listening" to electromagnetic radiations of military interest.</i> -source <a href="https://en.wikipedia.org/wiki/Electronic_warfare_support_measures" target="_blank">Electronic warfare support measures wikipedia</a>.
+</p>
+
+<p>
+ESM contact on aircraft with two possible class matches, basically A-6 Intruder type aircraft with just different configuration (A-6E or EA-6B), see below example image.
+</p>
+
+<img src="screenshots/Unit-Information-04.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Aircraft ESM Contact" title="Sea Power Aircraft ESM Contact">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=xexAKqX4-yw" target="_blank">SEA POWER Kirov Supremacy! || New Naval Simulation video</a>.
+</div>
+
+<p>
+Sensor is ESM with detecting unit a Kirov class ship.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
