@@ -32,6 +32,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 
 <p><a href="damage-control.php">Damage Control</a> when your ship gets hit, check this screen.</p>
 <p><a href="developer-posts.php">Developer posts</a> find out the authentic info right from the game devs.</p>
+<p><a href="dipping-sonar.php">Dipping Sonar</a> is deployed from low hovering ASW helicopters to hunt subs.</p>
 <p><a href="emcon.php">EMCON</a> <b>em</b>ission <b>con</b>trol, easy way to turn your radars on or off.</p>
 <p><a href="event-log.php">Event Log</a> various activity is logged in the event log.</p>
 <p><a href="flight-deck-dialog.php">Flight Deck Dialog</a> launch and recover aircrafts/helicopters.</p>
