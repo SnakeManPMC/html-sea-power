@@ -34,6 +34,15 @@ Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wol
 </div>
 
 <p>
+If Tactical Display if turned off, you can turn it back on from the bottom right corner, its the grid icon which has mouse pointer over it, seen in below example image.
+</p>
+
+<img src="screenshots/Tactical-Display-03.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Show Tactical Display" title="Sea Power Show Tactical Display">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@The_MightyJingles" target="_blank">The Mighty Jingles youtube channel</a>, <a href="https://www.youtube.com/watch?v=gMZcaBLfTBI" target="_blank">Sea Power - Sub Hunt video</a>.
+</div>
+
+<p>
 Tactical Display dialog can be dragged around, made larger and smaller depending what you need.
 </p>
 
