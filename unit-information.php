@@ -118,6 +118,19 @@ Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wol
 These possible contact classes are soviet union submarine Alfa class, Victor 1 class or Victor 2 class. Note how there is no longer "and 21 more..." text on the bottom, now the contact resolution is so high that its narrowed down to three different commie submarine classes.
 </p>
 
+<p>
+Unit information tracking of unindentified soviet submarine with 9.7 desibel (DB) underwater noise level.
+</p>
+
+<img src="screenshots/Unit-Information-03.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Unit Information Tracking Soviet Submarine" title="Sea Power Unit Information Tracking Soviet Submarine">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=_RkaYshM_Jk" target="_blank">SEA POWER The Barney Incident || New Naval Simulation video</a>.
+</div>
+
+<p>
+State is tracking, confidence is higher than 1.0, detected by DDG Adams class passive sonar.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
