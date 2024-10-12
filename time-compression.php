@@ -45,6 +45,10 @@ I don't have the full list of available time compression speeds, obviously first
 As with always when using time compression, be very careful when your units are operating in the sea and in the skies, if there are bad guys around you might be in a knife fight before you know it if you just rock'n'roll with high time compression ratio.
 </p>
 
+<p>
+Time compression in Sea Power is very hmm high frequency dunno how to describe it. In some games when you time accelerate its like the game is "ticking forward" in skips, but Sea Power is super smooth it just "hammers" those minutes away when you increase time compression to something like x30, units move on tactical display very smoothly and FAST.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
