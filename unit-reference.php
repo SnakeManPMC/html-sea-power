@@ -46,6 +46,19 @@ On the above example image we see United States Navy Belknap-class Missile Cruis
 </p>
 
 <p>
+Below example image is from United States Navy MK-46 Torpedo.
+</p>
+
+<img src="screenshots/Unit-Reference-02.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Unit Reference MK-46 Torpedo" title="Sea Power Unit Reference MK-46 Torpedo">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@The_MightyJingles" target="_blank">The Mighty Jingles youtube channel</a>, <a href="https://www.youtube.com/watch?v=f8-a5Qgjbo0" target="_blank">Sea Power - Naval Combat In The Missile Age video</a>.
+</div>
+
+<p>
+For this MK-46 torpedo you get to see all kinds of specifications; type, primary/secondary engagement modes, guidance type, mid course correction(?), max velocity (speed), range, attack altitude (obviously for torpedo its zero), warhead type and warhead size. Good stuff, now start memorizing all these specs like the naval warfare fleet tactics enthusiast you claim to be ;)
+</p>
+
+<p>
 Know your tools, capabilities, weapons, sensors, friends and enemies, that is how you win a naval combat scenarios :)
 </p>
 
