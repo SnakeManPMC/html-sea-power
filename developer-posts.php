@@ -15,14 +15,14 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1>Developer Posts</h1>
+	<h1>Developer Posts Sea Power</h1>
 <p>Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Developer Posts</h2>
+	<h2>Developer Posts Sea Power</h2>
 
 <p>
 <a href="https://steamcommunity.com/profiles/76561199009886942/posthistory/" target="_blank">Triassic Games steamcommunity.com posthistory</a>.
@@ -30,6 +30,10 @@
 
 <p>
 Unfortunately it looks like you have to be logged into steam shitshop to view those posts :(
+</p>
+
+<p>
+2024-10-12T13:00:00Z Ultrawide [monitor] Support? <i>All good. Yes we will support ultrawide. Here's an example: <a href="screenshots/Sea-Power-Ultrawide-Monitor-2024-10-12.jpg" target="_blank">Sea-Power-Ultrawide-Monitor-2024-10-12.jpg</a> Not sure there is anything more than 32:9 out there?</i> -source <a href="https://steamcommunity.com/app/1286220/discussions/0/4701286545158348067/#c4701286545158783678" target="_blank">Triassic Games [developer] post</a>.
 </p>
 
 <p>
