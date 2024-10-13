@@ -29,6 +29,15 @@
 </p>
 
 <p>
+SSQ-53 DIFAR is a sonobuoy for United States Navy, here is unit reference shown in below example image.
+</p>
+
+<img src="screenshots/Sonobuoy-01.jpg" class="imgresponsive" loading="lazy" alt="Sea Power SSQ-53 Sonobuoy Unit Reference" title="Sea Power SSQ-53 Sonobuoy Unit Reference">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@The_MightyJingles" target="_blank">The Mighty Jingles youtube channel</a>, <a href="https://www.youtube.com/watch?v=gMZcaBLfTBI" target="_blank">Sea Power - Sub Hunt video</a>.
+</div>
+
+<p>
 Select a helicopter with ASW loadout, sonobuoys, then use CTRL-RMB click with sonobuoys to create a search pattern waypoints. See below example image.
 </p>
 
