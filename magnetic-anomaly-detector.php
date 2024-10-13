@@ -59,6 +59,15 @@ Then once you get lucky enough and fly directly over a submerged submarine, you 
 Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=fS25SReO9lc" target="_blank">SEA POWER First Look! || New Naval Simulation! video</a>.
 </div>
 
+<p>
+Here is another example image of Sea Sprite helicopter using MAD device.
+</p>
+
+<img src="screenshots/Magnetic-Anomaly-Detector-Helicopter-03.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Magnetic Anomaly Detector Helicopter" title="Sea Power Magnetic Anomaly Detector Helicopter">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@The_MightyJingles" target="_blank">The Mighty Jingles youtube channel</a>, <a href="https://www.youtube.com/watch?v=gMZcaBLfTBI" target="_blank">Sea Power - Sub Hunt video</a>.
+</div>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
