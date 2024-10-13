@@ -38,7 +38,7 @@ Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wol
 </div>
 
 <p>
-I don't have the full list of available time compression speeds, obviously first is x1 speed ie real time, one hour in-game is one hour of your playing this game. There are other confirmed time compression speeds of: x2, x3, x5, x10, x20, x30, x50 and x100. PMCTODO
+I don't have the full list of available time compression speeds, obviously first is x1 speed ie real time, one hour in-game is one hour of your playing this game. There are other confirmed time compression speeds of: x0.5, x2, x3, x5, x10, x20, x30, x50 and x100. PMCTODO
 </p>
 
 <p>
