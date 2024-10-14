@@ -25,7 +25,7 @@
 	<h2>Sonobuoy Sea Power</h2>
 
 <p>
-<i>A sonobuoy (a portmanteau of sonar and buoy) is a small expendable sonar buoy dropped from aircraft or ships for anti-submarine warfare or underwater acoustic research. Sonobuoys are typically around 13 cm (5 in) in diameter and 91 cm (3 ft) long. When floating on the water, sonobuoys have both a radio transmitter above the surface and hydrophone sensors underwater.</i> -source <a href="https://en.wikipedia.org/wiki/Sonobuoy" target="_blank">Sonobuoy wikipedia</a>.
+See <a href="https://naval-warfare.pmctactical.org/sonobuoy.php" target="_blank">Sonobuoy Naval Warfare PMC Tactical</a>.
 </p>
 
 <p>

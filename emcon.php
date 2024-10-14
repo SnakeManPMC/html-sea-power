@@ -25,7 +25,7 @@
 	<h2>EMCON Sea Power</h2>
 
 <p>
-<i>In telecommunications, radio silence or emissions control (EMCON) is a status in which all fixed or mobile radio stations in an area are asked to stop transmitting for safety or security reasons.</i> -source <a href="https://en.wikipedia.org/wiki/Radio_silence" target="_blank">wikipedia radio silence (EMCON)</a>.
+See <a href="https://naval-warfare.pmctactical.org/emcon.php" target="_blank">EMCON Naval Warfare PMC Tactical</a>.
 </p>
 
 <p>

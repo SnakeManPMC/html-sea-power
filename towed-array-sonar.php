@@ -25,7 +25,7 @@
 	<h2>Towed Array Sonar Sea Power</h2>
 
 <p>
-<i>A towed array sonar is a system of hydrophones towed behind a submarine or a surface ship on a cable.</i> -source <a href="https://en.wikipedia.org/wiki/Towed_array_sonar" target="_blank">towed array sonar wikipedia</a>.
+See <a href="https://naval-warfare.pmctactical.org/towed-array-sonar.php" target="_blank">Towed Array Sonar Naval Warfare PMC Tactical</a>.
 </p>
 
 <p>

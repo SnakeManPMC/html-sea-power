@@ -25,7 +25,7 @@
 	<h2>Dipping Sonar Sea Power</h2>
 
 <p>
-This is a sonar device that is deployed by low hovering ASW helicopter to hunt submarines. <i>The AN/AQS-13 series was a helicopter dipping sonar system for the United States Navy. These systems were deployed as the primary inner zone anti-submarine warfare (ASW) sensor on aircraft carrier based helicopters for over five decades.</i> -source <a href="https://en.wikipedia.org/wiki/AN/AQS-13" target="_blank">AN/AQS-13 wikipedia</a>.
+See <a href="https://naval-warfare.pmctactical.org/dipping-sonar.php" target="_blank">Dipping Sonar Naval Warfare PMC Tactical</a>.
 </p>
 
 <p>

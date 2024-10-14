@@ -25,7 +25,7 @@
 	<h2>Magnetic Anomaly Detector (MAD) Sea Power</h2>
 
 <p>
-<i>A magnetic anomaly detector (MAD) is an instrument used to detect minute variations in the Earth's magnetic field.</i> -source <a href="https://en.wikipedia.org/wiki/Magnetic_anomaly_detector" target="_blank">Magnetic anomaly detector wikipedia</a>.
+See <a href="https://naval-warfare.pmctactical.org/magnetic-anomaly-detector.php" target="_blank">Magnetic Anomaly Detector Naval Warfare PMC Tactical</a>.
 </p>
 
 <p>

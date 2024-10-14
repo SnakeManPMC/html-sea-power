@@ -25,7 +25,7 @@
 	<h2>Thermocline Sea Power</h2>
 
 <p>
-<i>A thermocline (also known as the thermal layer or the metalimnion in lakes) is a distinct layer based on temperature within a large body of fluid (e.g. water, as in an ocean or lake)</i> -source <a href="https://en.wikipedia.org/wiki/Thermocline" target="_blank">Thermocline wikipedia</a>.
+See <a href="https://naval-warfare.pmctactical.org/thermocline.php" target="_blank">Thermocline Naval Warfare PMC Tactical</a>.
 </p>
 
 <p>
