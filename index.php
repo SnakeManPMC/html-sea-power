@@ -58,11 +58,15 @@ Official <a href="https://www.youtube.com/watch?v=abqTIiyviH4" target="_blank">S
 </p>
 
 <p>
-These youtube channels have some very high quality videos of Sea Power, some of them are even 4k high resolution so very enjoyable to watch. In no particular order.
+These youtube channels have some very high quality videos of Sea Power, some of them are even 4k high resolution so very enjoyable to watch.
 </p>
 
 <p>
-<a href="https://www.youtube.com/@Stealth17Gaming" target="_blank">Stealth17 Gaming</a>
+4k videos:
+</p>
+
+<p>
+<a href="https://www.youtube.com/BohemianEagle" target="_blank">The Mighty Jingles</a>
 </p>
 
 <p>
@@ -70,11 +74,19 @@ These youtube channels have some very high quality videos of Sea Power, some of 
 </p>
 
 <p>
-<a href="https://www.youtube.com/@VulcanHDGaming" target="_blank">VulcanHDGaming</a>
+1440p videos:
 </p>
 
 <p>
 <a href="https://www.youtube.com/@Enigma89" target="_blank">Enigma89</a>
+</p>
+
+<p>
+<a href="https://www.youtube.com/@Stealth17Gaming" target="_blank">Stealth17 Gaming</a>
+</p>
+
+<p>
+<a href="https://www.youtube.com/@VulcanHDGaming" target="_blank">VulcanHDGaming</a>
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
