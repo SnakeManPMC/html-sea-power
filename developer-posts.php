@@ -33,6 +33,26 @@ Unfortunately it looks like you have to be logged into steam shitshop to view th
 </p>
 
 <p>
+2024-10-16T09:27:05Z Unit side colors? <i>You should be able to change the colors in the ini files. But that would be not dynamic of course. Just a friendly, neutral, unknown, hostile kind of color setting.</i> -source <a href="https://steamcommunity.com/app/1286220/discussions/0/6407003171829658544/#c4696783308566726717" target="_blank">Triassic Games [developer] post</a>.
+</p>
+
+<p>
+2024-10-16T09:25:58Z Medals? <i>Not at the moment but we also plan to add achievements but that's more something for 1.0 release.</i> -source <a href="https://steamcommunity.com/app/1286220/discussions/0/4326349508216186698/#c4696783308566723858" target="_blank">Triassic Games [developer] post</a>.
+</p>
+
+<p>
+2024-10-16T09:25:06Z Dynamic Campaign will not be available on release. <i>I get that point. I agree that it might looked a bit "sneaky". It was not our intention to "hide" something or let it slip through. That wouldn't work anyway for such a big feature. The mistake I made was to update the steam page prior to the announcement where we then communicated the change. Sorry for that. We try to improve our communication. :)</i> -source <a href="https://steamcommunity.com/app/1286220/discussions/0/4701286545160706302/?ctp=2#c4696783308566721682" target="_blank">Triassic Games [developer] post</a>.
+</p>
+
+<p>
+2024-10-16T09:21:00Z Will weather be dynamic? <i>To clarify that: We have some dynamic weather changes BUT we don't have raymarching clouds in (yet) which would allow for real dynamic cloud changes for instance. It's more of a blend over thing in our case. We have missions which start with thunderstorm which then clear up later on.</i> -source <a href="https://steamcommunity.com/app/1286220/discussions/0/4839771963446795106/#c4696783308566713751" target="_blank">Triassic Games [developer] post</a>.
+</p>
+
+<p>
+2024-10-14T06:56:03Z Dynamic Campaign will not be available on release. <i>Yes it was a tough decision but it's barely alpha at the moment and while it works it's still too early to put it in. With saying Q2/25 this means we have enough buffer to make it playable and we expect it to be in sooner actually but let's see. Also we will publish a roadmap with EA release so you all can see what's in and what's planned as a proper communication and listening to you as the community is key! We want to support this game for a looong time actually. And to compensate for that a bit we've added Steam Workshop support for missions already and of course there is more to come. :)</i> -source <a href="https://steamcommunity.com/app/1286220/discussions/0/4701286545160706302/#c4701286722073772236" target="_blank">Triassic Games [developer] post</a>.
+</p>
+
+<p>
 2024-10-12T13:00:00Z Ultrawide [monitor] Support? <i>All good. Yes we will support ultrawide. Here's an example: <a href="screenshots/Sea-Power-Ultrawide-Monitor-2024-10-12.jpg" target="_blank">Sea-Power-Ultrawide-Monitor-2024-10-12.jpg</a> Not sure there is anything more than 32:9 out there?</i> -source <a href="https://steamcommunity.com/app/1286220/discussions/0/4701286545158348067/#c4701286545158783678" target="_blank">Triassic Games [developer] post</a>.
 </p>
 
