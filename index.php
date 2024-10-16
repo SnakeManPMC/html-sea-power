@@ -16,7 +16,7 @@
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
 	<h1>Sea Power Naval Combat in the Missile Age</h1>
-<p>Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.</p>
+<p><b><a href="https://store.steampowered.com/news/app/1286220/view/6565776610564512411" target="_blank">Release data announced: 2024-11-12</a></b> (Nov 12th)! Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
