@@ -29,7 +29,7 @@
 </p>
 
 <p>
-Unfortunately it looks like you have to be logged into steam shitshop to view those posts :(
+Unfortunately it looks like you have to be logged into steam website to view those posts :(
 </p>
 
 <p>

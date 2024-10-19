@@ -50,6 +50,19 @@ Below image example if from USS Nimitz after it got hit by several soviet anti s
 Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wolfpack345 youtube channel</a>, <a href="https://www.youtube.com/watch?v=Ob5npjC-beo" target="_blank">SEA POWER Dance of the Vampires || New Naval Simulation video</a>.
 </div>
 
+<p>
+Another screenshot with more details on the damages. This was taken from "Stable #60" build of Sea Power game.
+</p>
+
+<img src="screenshots/Damage-Control-03.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Damage Control" title="Sea Power Damage Control">
+<div class="imgcredit">
+Image credit: <a href="https://www.youtube.com/@Stealth17Gaming" target="_blank">Stealth17 Gaming youtube channel</a>, <a href="https://www.youtube.com/watch?v=AREFALD_tP4" target="_blank">NATO Massacre - Operation Iron Wave 2/2 - SEA POWER video</a>.
+</div>
+
+<p>
+Hmm I can only speculate of those damaged systems color codes, I assume black is DEAD beyond repair, tan color is medium damage perhaps, grey is undamaged no idea, hmm and red, could red mean that system is on fire. Oh well have to wait to get the game so can play and experience that myself. PMCTODO
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

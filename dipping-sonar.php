@@ -38,7 +38,7 @@ Image credit: <a href="https://www.youtube.com/@Wolfpack345" target="_blank">Wol
 </div>
 
 <p>
-Russian commie scum helicopter is deploying dipping sonar in below example image.
+Russian anti submarine warfare helicopter is deploying dipping sonar in below example image.
 </p>
 
 <img src="screenshots/Dipping-Sonar-02.jpg" class="imgresponsive" loading="lazy" alt="Sea Power Dipping Sonar Low Hovering Helicopter Deploying" title="Sea Power Dipping Sonar Low Hovering Helicopter Deploying">
