@@ -50,6 +50,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 <p><a href="unit-reference.php">Unit Reference</a> catalog of all the units available in Sea Power, specs, weapons, all the info you need.</p>
 <p><a href="unit-speed-control.php">Unit Speed Control</a> all ahead flank! How to control your aircraft/ship/sub speed.</p>
 <p><a href="weapon-reloading.php">Weapon Reloading</a> ships can reload weapons like missiles.</p>
+<p><a href="weapon-salvo-fire-mode.php">Weapon Salvo Fire Mode</a> units that have capability to fire salvos, meaning multiple shots at once, can do so.</p>
 
 	<h2>Sea Power Video Links</h2>
 
