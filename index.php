@@ -37,6 +37,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 <p><a href="event-log.php">Event Log</a> various activity is logged in the event log.</p>
 <p><a href="flight-deck-dialog.php">Flight Deck Dialog</a> launch and recover aircrafts/helicopters.</p>
 <p><a href="formation-manager.php">Formation Manager</a> like an index of units in a formation.</p>
+<p><a href="history.php">History</a> of game releases, updates, major announcements etc.</p>
 <p><a href="magnetic-anomaly-detector.php">Magnetic Anomaly Detector (MAD)</a> is how you detect a submarine.</p>
 <p><a href="request-identify-yourself.php">Request Identify Yourself</a> can be used for unknown contacts in tactical display.</p>
 <p><a href="sonobuoy.php">Sonobuoy</a> for submarine hunting.</p>
