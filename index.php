@@ -42,6 +42,7 @@ Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power l
 <p><a href="request-identify-yourself.php">Request Identify Yourself</a> can be used for unknown contacts in tactical display.</p>
 <p><a href="sonobuoy.php">Sonobuoy</a> for submarine hunting.</p>
 <p><a href="submarine-depth-control.php">Submarine Depth Control</a> Dive! Dive! Dive! Set your depth to 300ft!</p>
+<p><a href="submarine-masts.php">Submarine Masts</a> is for detecting detecting radio emissions, surveillance etc.</p>
 <p><a href="tactical-display.php">Tactical Display</a> is your tactical map where all the units, weapons, land etc will appear.</p>
 <p><a href="thermal-layer.php">Thermal Layer</a> different ocean temperatures based depth stuff.</p>
 <p><a href="time-compression.php">Time Compression</a> game plays in real time and compressed time.</p>
