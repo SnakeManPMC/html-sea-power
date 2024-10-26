@@ -16,7 +16,10 @@
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
 	<h1>Unit Reference Sea Power</h1>
-<p>Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.</p>
+
+<p>
+Unit Reference Sea Power, bringing up unit info during combat operations, etc. Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 

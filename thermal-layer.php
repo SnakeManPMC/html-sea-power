@@ -16,7 +16,10 @@
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
 	<h1>Thermal Layer Sea Power</h1>
-<p>Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.</p>
+
+<p>
+Thermal Layer Sea Power, thermocline is the other name used, what is it, how does it matter for under water warfare, etc. Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 

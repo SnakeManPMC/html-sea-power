@@ -16,7 +16,10 @@
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
 	<h1>Weapon Reloading Sea Power</h1>
-<p>Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.</p>
+
+<p>
+Weapon Reloading Sea Power, how does this reloading work, etc. Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 

@@ -16,7 +16,10 @@
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
 	<h1>Towed Array Sonar Sea Power</h1>
-<p>Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.</p>
+
+<p>
+Towed Array Sonar Sea Power, what is this sonar and how does it work, etc. Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 

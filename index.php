@@ -16,7 +16,10 @@
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
 	<h1>Sea Power Naval Combat in the Missile Age</h1>
-<p><b><a href="https://store.steampowered.com/news/app/1286220/view/6565776610564512411" target="_blank">Release data announced: 2024-11-12</a></b> (Nov 12th)! Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.</p>
+
+<p>
+<b><a href="https://store.steampowered.com/news/app/1286220/view/6565776610564512411" target="_blank">Release date announced: 2024-11-12</a></b> (Nov 12th)! Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -28,7 +31,9 @@
 Quote from microprose.com: <i>From the lead designer of Cold Waters, Sea Power lets you control NATO and Warsaw Pact forces in modern naval conflict campaigns. Use your advanced naval weaponry and sensors to respect rules of engagement and defeat the enemy forces in a tense fight for initiative and air/naval supremacy.</i>
 </p>
 
+<p>
 <a href="https://www.triassicgames.com/" target="_blank">Triassic Games</a>, <a href="https://store.steampowered.com/app/1286220/Sea_Power__Naval_Combat_in_the_Missile_Age/" target="_blank">Sea Power in steam</a> and <a href="https://www.microprose.com/games/sea-power" target="_blank">Sea Power in microprose.com</a>.
+</p>
 
 <p><a href="damage-control.php">Damage Control</a> when your ship gets hit, check this screen.</p>
 <p><a href="developer-posts.php">Developer posts</a> find out the authentic info right from the game devs.</p>

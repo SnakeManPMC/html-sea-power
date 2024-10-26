@@ -18,7 +18,7 @@
 	<h1>Submarine Masts Sea Power</h1>
 
 <p>
-Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.
+Submarine Masts Sea Power, what masts are there and how do they work, etc. Welcome to PMC website for naval warfare game: Sea Power Naval Combat in the Missile Age.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>

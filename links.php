@@ -15,8 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1>Links Sea Power Naval Combat in the Missile Age</h1>
-<p>Useful web links Sea Power and PMC websites.</p>
+	<h1>Links Sea Power Naval Combat in the Missile Age</h1>
+
+<p>
+Useful web links Sea Power and PMC websites.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -32,7 +35,6 @@
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">Sea Power root page</a></p>
-<br><br>
 <p><i>PMC Sea Power 2024 - <?php print(date("Y")); ?>.</i></p>
 <?php include("/var/www/include/footer-end.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
