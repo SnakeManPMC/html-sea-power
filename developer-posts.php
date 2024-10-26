@@ -36,6 +36,10 @@ Unfortunately it looks like you have to be logged into steam website to view tho
 </p>
 
 <p>
+2024-10-26T16:09:00Z Good graphical user interface (GUI) Scaling? <i>You can scale the UI, yes.</i> -source <a href="https://steamcommunity.com/app/1286220/discussions/0/4701286545158348067/#c4696784170963236734" target="_blank">Triassic Games [developer] post</a>.
+</p>
+
+<p>
 2024-10-24T19:56:00Z Ship editing limitations? <i>What's currently easily possible is changing the physics parameters of existing ships. If you want to add own models it's not that easy at the moment but we will add mod support for that as well. For that going to happen we will introduce Addressables/Asset Bundles. So technically you just need to install Unity to create those bundles later on. We also will provide tutorials and templates when the time for that is there. For the start only missions are directly modable via Steam Workshop.</i> -source <a href="https://steamcommunity.com/app/1286220/discussions/0/4696783943311122324/#c4696783943311123808" target="_blank">Triassic Games [developer] post</a>.
 </p>
 
